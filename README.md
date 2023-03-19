@@ -1,6 +1,6 @@
 # Hola, mi nombre es Óscar 👋
 
-[![52710-programacion.jpg](https://i.postimg.cc/TP9yVsTf/52710-programacion.jpg)](https://postimg.cc/v14HM31N)
+[![52877-programacion.jpg](https://i.postimg.cc/pTSLkb4b/52877-programacion.jpg)](https://postimg.cc/zbnNXMq0)
 
   
 
