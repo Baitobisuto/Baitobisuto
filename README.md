@@ -1,6 +1,6 @@
 ### Hola, mi nombre es Óscar 👋
 
-![https://foto/programador-trabajando-en-c%C3%B3digo-inform%C3%A1tico-javascript-con-pantalla-virtual-gm1365141371-436101299))](https://www.istockphoto.com/es/foto/programador-trabajando-en-c%C3%B3digo-inform%C3%A1tico-javascript-con-pantalla-virtual-gm1365141371-436101299)
+[![52524.jpg](https://i.postimg.cc/tT3xMgdQ/52524.jpg)](https://postimg.cc/7GLhCwQm)
 
 ## Tecnologías:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
